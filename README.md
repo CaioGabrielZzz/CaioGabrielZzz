@@ -1,7 +1,7 @@
 ## Bem vindo! Eu sou Caio Gabriel.
 
 - 🔭 Sou aluno de Análise e Desenvolvimento de sistemas , no atual momento estou me graduando em Análise e Desenvolvimento de sistemas na Fatec Jales 
-- 🌱 Estou atrás de u
+- 
 .
 
 <div align="center">
