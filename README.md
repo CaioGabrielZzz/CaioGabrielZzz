@@ -1,8 +1,7 @@
 ## Bem vindo! Eu sou Caio Gabriel.
 
 - 🔭 Sou aluno de Análise e Desenvolvimento de sistemas , no atual momento estou me graduando em Análise e Desenvolvimento de sistemas na Fatec Jales 
-- 
-.
+
 
 <div align="center">
   <a href="https://github.com/CaioGabrielZz/+">
