@@ -21,5 +21,5 @@
 ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/pimenta-caio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+  <a href="https://www.linkedin.com/in/pimenta-caio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/pimenta-caio/](https://caiopimenta130.wixsite.com/caio-pimenta)" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23E60023?style=for-the-badge&logo=devdotto&logoColor=white"></a>
